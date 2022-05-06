@@ -1,23 +1,23 @@
 #Q1
 String="Python is a case sensitive language"
 
-#1a 
+#1a)
 print(len(String))
 
-#1b 
+#1b)
 print(String[::-1])
 
-#1c
+#1c)
 String_1=String[10:26]
 print(String_1)
 
-#1d
+#1d)
 print(String.replace("a case sensitive","object oriented"))
 
-#1e
+#1e)
 print(String.find("a"))
 
-#1f
+#1f)
 print(String.replace(" ",""))
 
 #Q2
@@ -30,25 +30,25 @@ print("Hey, %s Here! \nMy SID is %d \nI am from %s and my CGPA is %f"%(name,SID,
     
 
 #Q3
-x=56
-y=10
+n1=56
+n2=10
 
 #3a AND 
-print(x&y) 
+print(n1&n2) 
 
 #3b OR
-print(x|y) 
+print(n1|n2) 
 
 #3c XOR
-print(x^y) 
+print(n1^n2) 
 
 #3d Left Shift
-print(x<<2)
-print(y<<2) 
+print(n1<<2)
+print(n2<<2) 
 
 #3e 
-print(x>>2) #Left Shift
-print(y>>4) #Right Shift
+print(n1>>2) #Left Shift
+print(n2>>4) #Right Shift
 
 
 #Q4 To determine which number is greatest
