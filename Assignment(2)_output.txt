@@ -1,0 +1,45 @@
+35
+egaugnal evitisnes esac a si nohtyP
+a case sensitive
+Python is object oriented language
+10
+Pythonisacasesensitivelanguage
+enter your name:
+Nikesh Bandhu
+enter your SID:
+21107077
+enter department name:
+Mechanical
+enter your CGPA:
+9.9
+Hey, Nikesh Bandhu Here! 
+My SID is 21107077 
+I am from Mechanical and my CGPA is 9.900000
+8
+58
+50
+224
+40
+14
+0
+enter your first number:
+7
+enter your second number:
+8
+enter your third number:
+9
+Number_3 is the greatest
+enter a string:
+My name is Nikesh
+yes
+enter length of 1st side:
+5
+enter length of 2nd side:
+13
+enter length of 3rd side:
+12
+Yes, formation of triangle is possible
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
